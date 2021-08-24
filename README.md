@@ -30,9 +30,6 @@ Skype: live:newseries10_1
  </p>
 
 ## 🚩 Current Understandings
-<p>https://github.com/JunaidAshraf1
-  <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</p>
 <br>
 
 📌 Full Stack Software engineer <br>
@@ -42,7 +39,6 @@ Skype: live:newseries10_1
 💬 Ask me about Technology, digital marketing , web design, social media <br>
 
 
-## 🔧 Technologies & Tools
 ## 🔧 Technologies & Tools
 <img src = "https://img.shields.io/badge/-Symfony-E34F26?style=flat&logo=symfony&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-redux-563D7C?style=flat&logo=redux&logoColor=white">
