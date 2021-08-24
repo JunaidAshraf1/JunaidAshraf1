@@ -3,25 +3,31 @@
 ### About me🙋🏻‍♂️
 
 ⚛ Full Stack Developer, holds a graduate degree and diploma certificate in the field of Computer Science & Engineering from Budge Budge Institute of Technology (B.B.I.T)
+
 ⚛ Total experience (~3) years in latest frontend & backend framework & libraries like Angular 9, Vue.js, Node.js, Laravel etc including other new technologies.
+
 ⚛ Full Stack freelancer, blogger and Android Developer as well.
+
 ⚛ My Website: junaidashraf.com
+
 ⚛ Freelancer Profile:
 https://www.freelancer.in/u/JunaidAshraf10
+
 ⚛ Founder: jscreeper.com
 Co-founder: bricks2shine.com
+
 ⚛ For more details connect at,
 WhatsApp: +91 7278523122
 Skype: live:newseries10_1
+
 ⚛ Additional: Crypto currency investor and advisor
+
 ✍ My website includes all the details about me, my work and my experiences, do check.
 
 <p> 
 <a href="https://www.linkedin.com/in/junaidashraf1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Junaid_Ashraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidashraf1/"></a>
     <img class="center" alt="Junaid Ashraf's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JunaidAshraf1.https://github.com/JunaidAshraf1"/>
  </p>
-
-<a href="https://junaidashraf.com/" target="_blank"><img alt="junaidashraf.com" src="https://img.shields.io/badge/-junaidashraf.com-blue?style=flat-square&logo=logoColor=white&link=https://junaidashraf.com/"></a>
 
     <img class="center" alt="Junaid Ashraf's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JunaidAshraf1.https://github.com/JunaidAshraf1"/>
  </p>
@@ -40,7 +46,6 @@ Skype: live:newseries10_1
 
 
 ## 🔧 Technologies & Tools
-<img src = "https://img.shields.io/badge/-Symfony-E34F26?style=flat&logo=symfony&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-redux-563D7C?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
