@@ -24,6 +24,8 @@ Skype: live:newseries10_1
 
 ✍ My website includes all the details about me, my work and my experiences, do check.
 
+<br>
+
 <p> 
 <a href="https://www.linkedin.com/in/junaidashraf1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Junaid_Ashraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidashraf1/"></a> 
     <img class="center" alt="Junaid Ashraf's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JunaidAshraf1.https://github.com/JunaidAshraf1"/>
