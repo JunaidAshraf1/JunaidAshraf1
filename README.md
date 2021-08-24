@@ -35,7 +35,7 @@ Skype: live:newseries10_1
 <br>
 
 📌 Full Stack Software engineer <br>
-🏢 I'm currently working full-time with awesome peeps at Codelogicx Technologies PVT LTD. <br>
+🏢 I'm currently working full-time with awesome peeps at Codelogicx Technologies Private Limited. <br>
 🌱 Learning more about and studying: Open Source, React, Ml , Salesforce. <br>
 😄 Passionate about accessibility and committed to a web that works for everyone. <br>
 💬 Ask me about Technology, digital marketing , web design, social media <br>
