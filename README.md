@@ -43,6 +43,8 @@ Skype: live:newseries10_1
 
 
 ## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
+<img src = "https://img.shields.io/badge/-Symfony-E34F26?style=flat&logo=symfony&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-redux-563D7C?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
