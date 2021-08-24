@@ -25,12 +25,12 @@ Skype: live:newseries10_1
 ✍ My website includes all the details about me, my work and my experiences, do check.
 
 <p> 
-<a href="https://www.linkedin.com/in/anasjak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-anas_jakane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasjak/"></a>
-    <img class="center" alt="Anas Jakane's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mranasm.https://github.com/mranasm"/>
+<a href="https://www.linkedin.com/in/junaidashraf1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-anas_jakane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidashraf1/"></a>
+    <img class="center" alt="Junaid Ashraf's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JunaidAshraf1.https://github.com/JunaidAshraf1"/>
  </p>
 
 ## 🚩 Current Understandings
-<p>
+<p>https://github.com/JunaidAshraf1
   <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
 <br>
