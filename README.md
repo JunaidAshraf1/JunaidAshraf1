@@ -30,6 +30,10 @@ Skype: live:newseries10_1
 <a href="https://www.linkedin.com/in/junaidashraf1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Junaid_Ashraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidashraf1/"></a> 
     <img class="center" alt="Junaid Ashraf's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JunaidAshraf1.https://github.com/JunaidAshraf1"/>
  </p>
+ 
+ <p>
+    <a href="https://junaidashraf.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Visit%20My%20Website-blue?style=flat-square&logoColor=white&link=https://junaidashraf.com/"></a>
+</p>
 
 ## 🚩 Current Understandings
 <br>
