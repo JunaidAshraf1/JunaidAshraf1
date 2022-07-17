@@ -1,4 +1,4 @@
-# Hey there! I'm Junaid Ashraf 👋
+# Hey there! I'm Junaid Ashraf 👋 | Full Stack Developer
 
 ### About me🙋🏻‍♂️
 
