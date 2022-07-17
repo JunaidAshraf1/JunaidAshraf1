@@ -8,7 +8,7 @@
 
 ⚛ Full Stack freelancer, blogger and Android Developer as well.
 
-⚛ My Website: junaidashraf.com
+⚛ My Website: https://www.junaidashraf.com
 
 ⚛ Freelancer Profile:
 https://www.freelancer.in/u/JunaidAshraf10
