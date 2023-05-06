@@ -4,7 +4,7 @@
 
 ⚛ Full Stack Developer, holds a graduate degree and diploma certificate in the field of Computer Science & Engineering from Budge Budge Institute of Technology (B.B.I.T)
 
-⚛ Total experience (~4.2) years in latest frontend & backend framework & libraries like React, Angular 9, Vue.js, Node.js, Laravel etc including other new technologies.
+⚛ Total experience (~4.7) years in latest frontend & backend framework & libraries like React, Angular 9, Vue.js, Node.js, Laravel etc including other new technologies.
 
 ⚛ Full Stack freelancer, blogger and Android Developer as well.
 
