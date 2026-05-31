@@ -1,25 +1,18 @@
-# Hi, I'm Junaid Ashraf 👋
+# Hey there! I'm Junaid Ashraf 👋
 
 ## Senior Full Stack & Systems Engineer
 
-Software Engineer with 7.5+ years of experience building scalable Web, Mobile, and Desktop applications. Experienced in designing, developing, and deploying cross-platform solutions with a strong focus on performance, maintainability, and user experience.
+### About
 
-### 💼 Current Role
+⚛️ Senior Full Stack & Systems Engineer with a B.Tech degree and Diploma in Computer Science & Engineering from Budge Budge Institute of Technology (B.B.I.T.).
 
-**Senior Full Stack Developer**
-Codelogicx Technologies Pvt. Ltd. | Oct 2020 – Present
+💻 With 7.5+ years of professional experience, I specialize in designing, building, and scaling high-performance Web, Desktop, and Mobile applications using modern architectures, cloud-native technologies, APIs, and AI-assisted engineering workflows.
 
-* Leading development of cross-platform desktop applications for Windows, macOS, and Linux using Electron.js.
-* Building scalable frontend architectures with React.js, Next.js, Redux, and TypeScript.
-* Developing backend services and APIs using Node.js, Express.js, Laravel, and SQL databases.
-* Contributing to AI-powered platforms and enterprise-grade business applications.
-* Driving end-to-end software delivery from architecture and implementation to deployment and maintenance.
+🚀 Currently focused on AI-assisted software engineering, system design, product architecture, automation systems, scalable SaaS platforms, and cross-platform application development.
 
----
+### 🧠 Core Expertise
 
-### 🛠 Technology Stack
-
-**Frontend**
+#### Frontend
 
 * React.js
 * Next.js
@@ -31,54 +24,107 @@ Codelogicx Technologies Pvt. Ltd. | Oct 2020 – Present
 * Bootstrap
 * Material UI
 
-**Backend**
+#### Backend
 
 * Node.js
 * Express.js
 * Laravel
-* PHP
 * REST APIs
 * GraphQL
 
-**Desktop**
+#### Cross-Platform Applications
 
 * Electron.js
+* React Native
 
-**Databases**
+#### Databases & ORMs
 
+* Prisma
+* Sequelize
 * MySQL
 * PostgreSQL
 * MongoDB
 
-**DevOps & Cloud**
+#### DevOps & Engineering Tools
 
-* Docker
+* Git
 * GitHub Actions
+* CI/CD
+* Docker
 * Linux
-* DigitalOcean
+* Nginx
 
----
+### 🤖 AI-Assisted Engineering Workflow
 
-### 🌱 Currently Exploring
+Actively integrating modern AI-powered development workflows using:
 
-* Software Architecture
+* ChatGPT
+* Claude
+* Cursor AI
+* Codex
+* GitHub Copilot
+* v0
+* Perplexity AI
+* Notion AI
+* n8n
+
+Leveraging AI to enhance:
+
+* Architecture Thinking
+* Scalability Planning
+* Engineering Productivity
+* Debugging Efficiency
+* Documentation Workflows
+* Development Speed
+* Product Execution
+
+### 🖥️ Platform Experience
+
+Experienced in building scalable solutions across:
+
+* Web Applications
+* Cross-Platform Desktop Applications
+* Mobile Applications
+* SaaS Products
+* APIs & Microservices
+* Productivity Platforms
+* Automation Systems
+
+### 📈 Areas of Interest
+
 * System Design
-* Cloud Native Development
-* AI-Assisted Engineering Workflows
+* Software Architecture
+* Scalable Engineering
+* Product Engineering
+* AI-Assisted Development
+* Cloud-Native Applications
 * Distributed Systems
+* Automation Ecosystems
+* Long-Term SaaS Product Development
 
----
+### 🏢 Professional Focus
 
-### 📫 Connect
+Currently working as a Senior Full Stack Developer, contributing to enterprise-grade applications while continuously expanding expertise in software architecture, platform engineering, distributed systems, AI-assisted development workflows, and modern software delivery practices.
 
-Website: https://junaidashraf.com
+### 🌐 Connect
+
+Website: https://www.junaidashraf.com
 
 LinkedIn:
 https://linkedin.com/in/connect-junaid
 
 Email:
-mail@junaidashraf.com
+[mail@junaidashraf.com](mailto:mail@junaidashraf.com)
+
+WhatsApp:
++91 7278523122
 
 ---
 
-> Building reliable software, solving complex problems, and continuously learning.
+### Top Skills
+
+Full Stack Engineering • System Design • Software Architecture • React.js • Node.js • TypeScript • Electron.js • SaaS Platforms • Cross-Platform Development • Microservices • Cloud-Native Applications • AI-Assisted Engineering
+
+---
+
+✍️ My website contains detailed information about my professional experience, projects, technologies, achievements, and engineering journey.
