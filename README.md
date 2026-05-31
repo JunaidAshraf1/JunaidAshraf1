@@ -1,66 +1,84 @@
-# Hey there! I'm Junaid Ashraf 👋 | Full Stack Developer
+# Hi, I'm Junaid Ashraf 👋
 
-### About me🙋🏻‍♂️
+## Senior Full Stack & Systems Engineer
 
-⚛ Full Stack Developer, holds a graduate degree and diploma certificate in the field of Computer Science & Engineering from Budge Budge Institute of Technology (B.B.I.T)
+Software Engineer with 7.5+ years of experience building scalable Web, Mobile, and Desktop applications. Experienced in designing, developing, and deploying cross-platform solutions with a strong focus on performance, maintainability, and user experience.
 
-⚛ Total experience (~6) years in latest frontend & backend framework & libraries like React, Angular 9, Vue.js, Node.js, Laravel etc including other new technologies.
+### 💼 Current Role
 
-⚛ Full Stack freelancer, blogger and Android Developer as well.
+**Senior Full Stack Developer**
+Codelogicx Technologies Pvt. Ltd. | Oct 2020 – Present
 
-⚛ My Website: https://www.junaidashraf.com
+* Leading development of cross-platform desktop applications for Windows, macOS, and Linux using Electron.js.
+* Building scalable frontend architectures with React.js, Next.js, Redux, and TypeScript.
+* Developing backend services and APIs using Node.js, Express.js, Laravel, and SQL databases.
+* Contributing to AI-powered platforms and enterprise-grade business applications.
+* Driving end-to-end software delivery from architecture and implementation to deployment and maintenance.
 
-⚛ Freelancer Profile:
-https://www.freelancer.in/u/JunaidAshraf10
+---
 
-⚛ Founder: jscreeper.com
-Co-founder: bricks2shine.com
+### 🛠 Technology Stack
 
-⚛ For more details connect at,
-WhatsApp: +91 7278523122
-Skype: live:newseries10_1
+**Frontend**
 
-⚛ Additional: Crypto currency investor and advisor
+* React.js
+* Next.js
+* Vue.js
+* Angular
+* TypeScript
+* JavaScript (ES6+)
+* Tailwind CSS
+* Bootstrap
+* Material UI
 
-✍ My website includes all the details about me, my work and my experiences, do check.
+**Backend**
 
-<br>
+* Node.js
+* Express.js
+* Laravel
+* PHP
+* REST APIs
+* GraphQL
 
-<p> 
-<a href="https://www.linkedin.com/in/junaidashraf1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Junaid_Ashraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junaidashraf1/"></a> 
-    <img class="center" alt="Junaid Ashraf's github visitors" src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/JunaidAshraf1.https://github.com/JunaidAshraf1"/>
- </p>
- 
- <p>
-    <a href="https://junaidashraf.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Visit%20My%20Website-blue?style=flat-square&logoColor=white&link=https://junaidashraf.com/"></a>
-</p>
+**Desktop**
 
-## 🚩 Current Understandings
-<br>
+* Electron.js
 
-📌 Full Stack Software engineer <br>
-🏢 I'm currently working full-time with awesome peeps at Codelogicx Technologies Private Limited. <br>
-🌱 Learning more about and studying: Open Source, Vue.js, Python, JS. <br>
-😄 Passionate about accessibility and committed to a web that works for everyone. <br>
-💬 Ask me about technology, web dev, android dev, desktop apps <br>
+**Databases**
 
+* MySQL
+* PostgreSQL
+* MongoDB
 
-## 🔧 Technologies & Tools
-<img src = "https://img.shields.io/badge/-Symfony-E34F26?style=flat&logo=symfony&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-redux-563D7C?style=flat&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Amazon Web Services-black?style=flat&logo=amazon&logoColor=white">
+**DevOps & Cloud**
+
+* Docker
+* GitHub Actions
+* Linux
+* DigitalOcean
+
+---
+
+### 🌱 Currently Exploring
+
+* Software Architecture
+* System Design
+* Cloud Native Development
+* AI-Assisted Engineering Workflows
+* Distributed Systems
+
+---
+
+### 📫 Connect
+
+Website: https://junaidashraf.com
+
+LinkedIn:
+https://linkedin.com/in/connect-junaid
+
+Email:
+mail@junaidashraf.com
+
+---
+
+> Building reliable software, solving complex problems, and continuously learning.
