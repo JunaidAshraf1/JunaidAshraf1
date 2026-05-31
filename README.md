@@ -254,7 +254,7 @@ currently_deepening:
 
 | Channel | Details |
 |---------|---------|
-| 📧 **Email** | [email protected] |
+| 📧 **Email** | mail@junaidashraf.com |
 | 💼 **LinkedIn** | [linkedin.com/in/connect-junaid](https://linkedin.com/in/connect-junaid) |
 | 🌍 **Website** | [junaidashraf.com](https://www.junaidashraf.com) |
 | 🐦 **X / Twitter** | [@connect_junaid](https://twitter.com/connect_junaid) |
