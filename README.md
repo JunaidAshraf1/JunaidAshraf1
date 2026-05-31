@@ -1,25 +1,32 @@
 <!-- ============================================================
      JUNAID ASHRAF — GitHub Profile README (2026 Edition)
+     Fully static & reliable — no broken external stat services
      ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=240&section=header&text=Junaid%20Ashraf&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Senior%20Full%20Stack%20%26%20Systems%20Engineer&descSize=18&descAlignY=62&descColor=8b949e" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=42&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Junaid+Ashraf" alt="Junaid Ashraf" />
 </p>
 
 <p align="center">
-  <a href="https://www.junaidashraf.com"><img src="https://img.shields.io/badge/🌍_Website-junaidashraf.com-1f6feb?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="https://linkedin.com/in/connect-junaid"><img src="https://img.shields.io/badge/LinkedIn-connect--junaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-junaid%40junaidashraf.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://github.com/JunaidAshraf1"><img src="https://img.shields.io/badge/GitHub-JunaidAshraf1-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1500&color=8B949E&center=true&vCenter=true&width=700&height=40&lines=Senior+Full+Stack+%26+Systems+Engineer;7.5%2B+Years+%7C+Web+%7C+Desktop+%7C+Mobile;AI-Assisted+Engineering+%7C+Kolkata%2C+India" alt="Subtitle" />
+</p>
+
+<p align="center">
+  <a href="https://www.junaidashraf.com"><img src="https://img.shields.io/badge/🌍_Website-junaidashraf.com-1f6feb?style=for-the-badge&labelColor=161b22" /></a>
+  <a href="https://linkedin.com/in/connect-junaid"><img src="https://img.shields.io/badge/LinkedIn-connect--junaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
+  <a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-junaid%40junaidashraf.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://www.freelancer.in/u/JunaidAshraf10"><img src="https://img.shields.io/badge/Freelancer-JunaidAshraf10-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=161b22" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JunaidAshraf1&label=Profile+Views&color=1f6feb&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Consulting%20%26%20Freelance-58a6ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open%20to-Consulting%20%26%20Freelance-58a6ff?style=flat-square&labelColor=161b22" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-f0883e?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Based%20in-Kolkata%2C%20India-f0883e?style=flat-square&labelColor=161b22" />
 </p>
+
+<br/>
 
 ---
 
@@ -32,7 +39,7 @@ experience  : 7.5+ Years Professional Engineering
 
 role:
   current   : Senior Full Stack Developer @ Codelogicx Technologies
-  also      : Systems Engineer · Freelancer (2016–Present)
+  also      : Systems Engineer · Freelancer (2016 – Present)
 
 education:
   - B.Tech in Computer Science & Engineering — B.B.I.T., Kolkata
@@ -45,9 +52,8 @@ focus_areas:
   - AI-Assisted Engineering      # Cursor · Copilot · Claude · ChatGPT
 
 currently_deepening:
-  - Distributed Systems
-  - Cloud-Native & DevOps
-  - Platform Scalability
+  - Distributed Systems & Cloud-Native
+  - DevOps Automation & Platform Scalability
   - Rust & C++ (Systems Layer)
 ```
 
@@ -58,15 +64,15 @@ currently_deepening:
 <table align="center">
   <tr>
     <td align="center">🥇</td>
-    <td><strong>Key Contributor Award</strong> — Codelogicx Technologies (2024–2025)</td>
+    <td><strong>Key Contributor Award</strong> &mdash; Codelogicx Technologies (2024–2025)</td>
   </tr>
   <tr>
     <td align="center">🥇</td>
-    <td><strong>Top Performer Award</strong> — Codelogicx Technologies (2022–2023)</td>
+    <td><strong>Top Performer Award</strong> &mdash; Codelogicx Technologies (2022–2023)</td>
   </tr>
   <tr>
     <td align="center">🏅</td>
-    <td><strong>Best SaaS Platform Recognition</strong> — TeamTrace · ASSOCHAM</td>
+    <td><strong>Best SaaS Platform Recognition</strong> &mdash; TeamTrace · ASSOCHAM</td>
   </tr>
 </table>
 
@@ -138,29 +144,39 @@ currently_deepening:
 ## 🖥️ Platforms Shipped
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐_Web-Production-1f6feb?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🪟_Windows-Desktop-0078D4?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🍎_macOS-Desktop-ffffff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🐧_Linux-Desktop-FCC624?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/🤖_Android-Mobile-3DDC84?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/📱_iOS-Mobile-ffffff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_Web-Production-1f6feb?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🪟_Windows-Desktop-0078D4?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🍎_macOS-Desktop-aaaaaa?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🐧_Linux-Desktop-FCC624?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/🤖_Android-Mobile-3DDC84?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/📱_iOS-Mobile-aaaaaa?style=for-the-badge&labelColor=161b22" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
+> ⚡ **Stats are generated via GitHub Actions** and stored as static images in this repo — always up to date, never broken.
+
+<!-- After setting up the metrics Action below, replace these with your generated image paths -->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JunaidAshraf1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidAshraf1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img src="https://img.shields.io/github/followers/JunaidAshraf1?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=1f6feb&labelColor=161b22" />
+  <img src="https://img.shields.io/github/stars/JunaidAshraf1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&color=f0883e&label=Total%20Stars&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Repos-42-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Experience-7.5%2B%20Years-3fb950?style=for-the-badge&labelColor=161b22" />
 </p>
+
+<!-- METRICS IMAGE — generated by GitHub Actions (lowlighter/metrics) -->
+<!-- Once you set up the Action, uncomment and use this line: -->
+<!-- <p align="center"><img src="github-metrics.svg" /></p> -->
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JunaidAshraf1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=JunaidAshraf1&theme=github-dark-blue&hide_border=true&background=161b22&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=1f6feb" />
 </p>
 
 ---
@@ -168,30 +184,100 @@ currently_deepening:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidAshraf1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JunaidAshraf1&theme=algolia&row=2&column=4&no-frame=true&margin-w=8&margin-h=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidAshraf1&bg_color=161b22&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Junaid's%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
+> **Snake animation requires a one-time GitHub Action setup** (2 minutes). Follow the steps below 👇
+
+<p align="center">
+  <a href="#️-one-time-setup-snake--metrics">
+    <img src="https://img.shields.io/badge/🐍_Snake_Not_Showing%3F-Click_to_set_up_in_2_min-3fb950?style=for-the-badge&labelColor=161b22" />
+  </a>
+</p>
+
+<!-- Once your snake Action has run, this will display automatically -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/JunaidAshraf1/JunaidAshraf1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunaidAshraf1/JunaidAshraf1/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JunaidAshraf1/JunaidAshraf1/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/JunaidAshraf1/JunaidAshraf1/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-> 💡 **Snake not animating?** Make sure the GitHub Action is set up in your profile repo to generate `output/github-contribution-grid-snake.svg` — see [Platane/snk](https://github.com/Platane/snk) for setup.
+---
+
+## ⚙️ One-Time Setup: Snake & Metrics
+
+<details>
+<summary><b>📋 Click to expand — Takes ~2 minutes, snake works forever after</b></summary>
+
+### Step 1 — Contribution Snake
+
+Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### Step 2 — Full Metrics (Optional, replaces stat cards)
+
+Create `.github/workflows/metrics.yml`:
+
+```yaml
+name: Generate Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: JunaidAshraf1
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          filename: github-metrics.svg
+```
+
+Add a `METRICS_TOKEN` secret (classic PAT with `read:user` and `repo` scopes) in repo Settings → Secrets.
+
+Then uncomment the metrics image line in this README.
+
+</details>
 
 ---
 
@@ -199,7 +285,7 @@ currently_deepening:
 
 ```
 ◈ System Design & Distributed Architecture
-◈ Cloud-Native Applications & DevOps Automation  
+◈ Cloud-Native Applications & DevOps Automation
 ◈ AI-Assisted Engineering Workflows
 ◈ Platform Scalability & Microservices
 ◈ Product Engineering (SaaS Platforms)
@@ -229,5 +315,9 @@ currently_deepening:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=120&section=footer" />
+  <img src="https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-161b22?style=flat-square&labelColor=161b22" />
+</p>
+
+<p align="center">
+  <sub>Built with precision · Powered by discipline · Updated 2026</sub>
 </p>
