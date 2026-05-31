@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.junaidashraf.com"><img src="https://img.shields.io/badge/🌍_Website-junaidashraf.com-1f6feb?style=for-the-badge&labelColor=161b22" /></a>
-  <a href="https://linkedin.com/in/connect-junaid"><img src="https://img.shields.io/badge/LinkedIn-connect--junaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
-  <a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-junaid%40junaidashraf.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://twitter.com/connect_junaid"><img src="https://img.shields.io/badge/X-connect__junaid-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" /></a>
-  <a href="https://www.freelancer.in/u/JunaidAshraf10"><img src="https://img.shields.io/badge/Freelancer-JunaidAshraf10-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://www.junaidashraf.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌍_Website-junaidashraf.com-1f6feb?style=for-the-badge&labelColor=161b22" /></a>
+  <a href="https://linkedin.com/in/connect-junaid" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-connect--junaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" /></a>
+  <a href="mailto:mail@junaidashraf.com"><img src="https://img.shields.io/badge/Email-mail%40junaidashraf.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://twitter.com/connect_junaid" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-connect__junaid-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22" /></a>
+  <a href="https://www.freelancer.in/u/JunaidAshraf10" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Freelancer-JunaidAshraf10-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=161b22" /></a>
 </p>
 
 <p align="center">
@@ -254,12 +254,12 @@ currently_deepening:
 
 | Channel | Details |
 |---------|---------|
-| 📧 **Email** | mail@junaidashraf.com |
-| 💼 **LinkedIn** | [linkedin.com/in/connect-junaid](https://linkedin.com/in/connect-junaid) |
-| 🌍 **Website** | [junaidashraf.com](https://www.junaidashraf.com) |
-| 🐦 **X / Twitter** | [@connect_junaid](https://twitter.com/connect_junaid) |
-| 💻 **Freelancer** | [freelancer.in/u/JunaidAshraf10](https://www.freelancer.in/u/JunaidAshraf10) |
-| 📱 **WhatsApp** | +91 72785 23122 |
+| 📧 **Email** | <a href="mailto:mail@junaidashraf.com">mail@junaidashraf.com</a> |
+| 💼 **LinkedIn** | <a href="https://linkedin.com/in/connect-junaid" target="_blank" rel="noopener noreferrer">linkedin.com/in/connect-junaid</a> |
+| 🌍 **Website** | <a href="https://www.junaidashraf.com" target="_blank" rel="noopener noreferrer">junaidashraf.com</a> |
+| 🐦 **X / Twitter** | <a href="https://twitter.com/connect_junaid" target="_blank" rel="noopener noreferrer">@connect_junaid</a> |
+| 💻 **Freelancer** | <a href="https://www.freelancer.in/u/JunaidAshraf10" target="_blank" rel="noopener noreferrer">freelancer.in/u/JunaidAshraf10</a> |
+| 📱 **WhatsApp** | <a href="https://wa.me/917278523122" target="_blank" rel="noopener noreferrer">+91 72785 23122</a> |
 
 </p>
 
